@@ -1,0 +1,14 @@
+button{
+    height: 60px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: peachpuff;
+    border: 1px solid black;
+}
+h1{
+    font-size: 35px;
+}
+input{
+    height: 20px;
+    width: 250px;
+}
